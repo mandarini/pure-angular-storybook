@@ -1,3 +1,11 @@
+## To test the Storybook issue discussed on the Nx repo
+
+```
+ng run katers:storybook
+```
+
+(issue links: https://github.com/nrwl/nx/issues/7924 and https://github.com/nrwl/nx/issues/11222)
+
 # Katers
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.6.
